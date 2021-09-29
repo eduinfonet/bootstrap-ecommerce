@@ -1,0 +1,23 @@
+.bg-orange {
+  background-color: #feeae9;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.img-100 {
+  width: 100px;
+}
+.rounded-10 {
+  border-radius: 10px;
+}
+.card-shadow {
+  box-shadow: 7px 7px 20px black;
+}
+.my-form {
+  width: 400px;
+  margin: auto;
+}
+.my-subscribe {
+  padding-top: 50px;
+}
